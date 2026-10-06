@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "388862594395",
+    "firebase_url": "https://exchange-app-ce922-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "exchange-app-ce922",
+    "storage_bucket": "exchange-app-ce922.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388862594395:android:25e54941b7983fc041de7e",
+        "android_client_info": {
+          "package_name": "com.example.exchangeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDezEAaB5fSh1gyEjyui6wdDCYHvz2nUmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
